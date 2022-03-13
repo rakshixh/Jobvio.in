@@ -73,8 +73,6 @@ if(isset($_POST['submitPost'])){
 
 <html>
 <head>
-       <!-- Global site tag (gtag.js) - Google Analytics -->
-
 
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
